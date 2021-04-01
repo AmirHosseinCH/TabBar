@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icons/bell-active.png</file>
+        <file>icons/bell.png</file>
+        <file>icons/envelope-active.png</file>
+        <file>icons/envelope.png</file>
+        <file>icons/folder-active.png</file>
+        <file>icons/folder.png</file>
+        <file>icons/user-active.png</file>
+        <file>icons/user.png</file>
+        <file>CurvedRectangle.qml</file>
+    </qresource>
+</RCC>
